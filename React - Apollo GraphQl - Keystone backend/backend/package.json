@@ -1,14 +1,14 @@
 {
-  "name": "sick-fits-backend",
+  "name": "react-ql-backend",
   "version": "2.0.0",
   "private": true,
-  "author": "Wes Bos",
+  "author": "sg",
   "license": "MIT",
   "scripts": {
     "dev": "keystone-next"    
   },
   "eslintConfig": {
-    "extends": "wesbos/typescript.js",
+    "extends": "sg/typescript.js",
     "rules": {
       "@typescript-eslint/no-unsafe-assignment": 0
     }
